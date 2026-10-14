@@ -1,0 +1,6 @@
+{
+  "name": "Naruto 3D Shinobi Battle - ناروتو ثري دي",
+  "description": "لعبة قتال نينجا حماسية ثلاثية الأبعاد (3D) مع شخصيات ناروتو وساسكي وكاكاشي، تقنيات النينجتسو، والقتالات السريعة ثلاثية الأبعاد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
